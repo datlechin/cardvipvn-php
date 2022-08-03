@@ -1,0 +1,20 @@
+{
+    "name": "datlechin/cardvipvn-php",
+    "description": "Tích hợp API cardvip.vn",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Datlechin\\CardVipPHP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ngo Quoc Dat",
+            "email": "datlechin@gmail.com",
+            "homepage": "https://ngoquocdat.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
